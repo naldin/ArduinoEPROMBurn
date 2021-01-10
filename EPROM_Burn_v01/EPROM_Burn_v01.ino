@@ -1,7 +1,6 @@
 /*
     Gravador de EPROM v01
     Grava dados na EEPROM 27C256
-    Retorna ok ou numero de posições com dados
     Autor: Ronaldo Rezende Junior
     Data: 01/2021
     Arduino: Mega 2560

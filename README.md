@@ -5,7 +5,7 @@ Arduino MEGA leitor e gravador de EPROM
 * EPROM_v02 - Leitor de EPROM que mostra se a memoria está limpa ou a quantidade de posições ocupadas
 * EPROM_Burn_v01 - Gravador de EPROM
 
-Instruções no estão no proprio sketch
+Instruções de ligações das pinagens estão no sketch
 
 <img src="https://github.com/naldin/ArduinoEPROMBurn/raw/master/ArduinoEprom.jpg" />
 
