@@ -35,7 +35,7 @@ int pinDados = 23; //Porta inicial de dados
 int portasDados = 8; //Qtd de portas de dados
 int somaPinDados = 2; //Soma para os pinos de dados
 int saidaDados = 0; //Valor de saida dos dados
-int countErro = 1;
+int countErro = 0;
 
 uint16_t bitsAdd = 32767; // 15 bits de endereço (2^15)
 
